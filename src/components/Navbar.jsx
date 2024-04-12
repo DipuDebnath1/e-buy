@@ -1,6 +1,11 @@
+import {  useContext } from "react";
 import { FaShoppingCart, FaUser } from "react-icons/fa";
+import { ContextData } from "../global/ContextInfo";
+import { space } from "postcss/lib/list";
 const Navbar = () => {
-    return (
+    const { localStorageData} = useContext(ContextData)
+
+     return (
         <nav className="bg-gray-100 py-3 ">
            <div className="max-w-7xl px-5 mx-auto flex justify-between items-center">
                 <div className="logo w-3/12">
@@ -12,7 +17,12 @@ const Navbar = () => {
                 <div className="w-3/12">
                     <ul className="flex gap-5 justify-end">
                         <FaUser className="text-2xl "/>
-                        <FaShoppingCart className="text-2xl " />
+                        <div className="relative pr-2">
+                           <FaShoppingCart className={`text-2xl ${localStorageData>0 ? 'text-red-500' : ""}`} />
+                           {
+                             localStorageData && <span className="absolute -top-3 font-semibold right-0">{localStorageData}</span>
+                           }
+                        </div> 
                     </ul>
                 </div>
            </div>

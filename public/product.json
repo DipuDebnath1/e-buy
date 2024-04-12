@@ -2,7 +2,7 @@
     {
       "id": "1",
       "name": "iPhone 13",
-      "img": "iphone_13_image.jpg",
+      "img": "https://i.ibb.co/JcMvdpm/download.jpg",
       "des": "The latest iPhone with advanced features.",
       "category": "Phone",
       "price": 999,
@@ -16,7 +16,7 @@
     {
       "id": "2",
       "name": "Samsung Galaxy S21",
-      "img": "samsung_galaxy_s21_image.jpg",
+      "img": "https://i.ibb.co/JcMvdpm/download.jpg",
       "des": "High-performance Android smartphone.",
       "category": "Phone",
       "price": 899,
@@ -30,7 +30,7 @@
     {
       "id": "3",
       "name": "Google Pixel 6",
-      "img": "google_pixel_6_image.jpg",
+      "img": "https://i.ibb.co/JcMvdpm/download.jpg",
       "des": "Flagship Android smartphone by Google.",
       "category": "Phone",
       "price": 799,
@@ -44,7 +44,7 @@
     {
       "id": "4",
       "name": "MacBook Pro",
-      "img": "macbook_pro_image.jpg",
+      "img": "https://i.ibb.co/tJNdWrt/download.jpg",
       "des": "Powerful laptop for professionals.",
       "category": "Laptop",
       "price": 1999,
@@ -58,7 +58,7 @@
     {
       "id": "5",
       "name": "Dell XPS 15",
-      "img": "dell_xps_15_image.jpg",
+      "img": "https://i.ibb.co/tJNdWrt/download.jpg",
       "des": "Premium ultrabook for productivity.",
       "category": "Laptop",
       "price": 1799,
@@ -72,7 +72,7 @@
     {
       "id": "6",
       "name": "HP Spectre x360",
-      "img": "hp_spectre_x360_image.jpg",
+      "img": "https://i.ibb.co/tJNdWrt/download.jpg",
       "des": "Convertible laptop with stunning design.",
       "category": "Laptop",
       "price": 1499,
@@ -86,7 +86,7 @@
     {
       "id": "7",
       "name": "iPad Pro",
-      "img": "ipad_pro_image.jpg",
+      "img": "https://i.ibb.co/p26H8Q8/download.jpg",
       "des": "Versatile tablet for creativity and productivity.",
       "category": "Tablet",
       "price": 799,
@@ -100,7 +100,7 @@
     {
       "id": "8",
       "name": "Samsung Galaxy Tab S7",
-      "img": "samsung_galaxy_tab_s7_image.jpg",
+      "img": "https://i.ibb.co/p26H8Q8/download.jpg",
       "des": "Premium Android tablet with S Pen support.",
       "category": "Tablet",
       "price": 649,
@@ -114,7 +114,7 @@
     {
       "id": "9",
       "name": "Microsoft Surface Pro 8",
-      "img": "microsoft_surface_pro_8_image.jpg",
+      "img": "https://i.ibb.co/p26H8Q8/download.jpg",
       "des": "Versatile 2-in-1 laptop with Windows 11.",
       "category": "Tablet",
       "price": 999,
@@ -128,7 +128,7 @@
     {
       "id": "10",
       "name": "Apple Watch Series 7",
-      "img": "apple_watch_series_7_image.jpg",
+      "img": "https://i.ibb.co/h7kHTM8/download.jpg",
       "des": "Advanced smartwatch with larger display.",
       "category": "Watch",
       "price": 399,
@@ -141,7 +141,7 @@
     {
       "id": "11",
       "name": "Samsung Galaxy Watch 4",
-      "img": "samsung_galaxy_watch_4_image.jpg",
+      "img": "https://i.ibb.co/h7kHTM8/download.jpg",
       "des": "Feature-rich smartwatch with Wear OS.",
       "category": "Watch",
       "price": 349,
@@ -154,7 +154,7 @@
     {
       "id": "12",
       "name": "Fitbit Versa 3",
-      "img": "fitbit_versa_3_image.jpg",
+      "img": "https://i.ibb.co/h7kHTM8/download.jpg",
       "des": "Fitness-focused smartwatch with built-in GPS.",
       "category": "Watch",
       "price": 229,
@@ -167,7 +167,7 @@
     {
       "id": "13",
       "name": "Dell UltraSharp U2719D",
-      "img": "dell_ultrasharp_u2719d_image.jpg",
+      "img": "https://i.ibb.co/z2mLfcZ/monitor.png",
       "des": "27-inch QHD monitor with InfinityEdge display.",
       "category": "Monitor",
       "price": 349,
@@ -180,7 +180,7 @@
     {
       "id": "14",
       "name": "LG 34WN80C-B",
-      "img": "lg_34wn80c_b_image.jpg",
+      "img": "https://i.ibb.co/z2mLfcZ/monitor.png",
       "des": "34-inch ultrawide monitor for multitasking.",
       "category": "Monitor",
       "price": 549,
@@ -193,7 +193,7 @@
     {
       "id": "15",
       "name": "ASUS ROG Swift PG279Q",
-      "img": "asus_rog_swift_pg279q_image.jpg",
+      "img": "https://i.ibb.co/z2mLfcZ/monitor.png",
       "des": "27-inch gaming monitor with G-Sync.",
       "category": "Monitor",
       "price": 699,
@@ -206,7 +206,7 @@
     {
       "id": "16",
       "name": "Logitech MX Keys",
-      "img": "logitech_mx_keys_image.jpg",
+      "img": "https://i.ibb.co/vvgQfnB/download.jpg",
       "des": "Premium wireless keyboard with backlighting.",
       "category": "Key-board",
       "price": 99,
@@ -218,7 +218,7 @@
     {
       "id": "17",
       "name": "Razer BlackWidow Elite",
-      "img": "razer_blackwidow_elite_image.jpg",
+      "img": "https://i.ibb.co/vvgQfnB/download.jpg",
       "des": "Mechanical gaming keyboard with RGB lighting.",
       "category": "Key-board",
       "price": 129,
@@ -230,7 +230,7 @@
     {
       "id": "18",
       "name": "Apple Magic Keyboard",
-      "img": "apple_magic_keyboard_image.jpg",
+      "img": "https://i.ibb.co/vvgQfnB/download.jpg",
       "des": "Slim wireless keyboard with scissor mechanism.",
       "category": "Key-board",
       "price": 99,
@@ -242,7 +242,7 @@
     {
       "id": "19",
       "name": "Logitech MX Master 3",
-      "img": "logitech_mx_master_3_image.jpg",
+      "img": "https://i.ibb.co/7zGgTbK/download.jpg",
       "des": "Advanced wireless mouse with customizable buttons.",
       "category": "Mouse",
       "price": 99,
@@ -255,7 +255,7 @@
     {
       "id": "20",
       "name": "Razer DeathAdder V2",
-      "img": "razer_deathadder_v2_image.jpg",
+      "img": "https://i.ibb.co/7zGgTbK/download.jpg",
       "des": "Ergonomic gaming mouse with optical sensor.",
       "category": "Mouse",
       "price": 69,
@@ -267,7 +267,7 @@
     {
       "id": "21",
       "name": "Logitech G Pro Wireless",
-      "img": "logitech_g_pro_wireless_image.jpg",
+      "img": "https://i.ibb.co/7zGgTbK/download.jpg",
       "des": "Lightweight wireless gaming mouse with HERO sensor.",
       "category": "Mouse",
       "price": 149,
@@ -279,7 +279,7 @@
     {
       "id": "22",
       "name": "Sony WH-1000XM4",
-      "img": "sony_wh_1000xm4_image.jpg",
+      "img": "https://i.ibb.co/T2KGCGZ/download.jpg",
       "des": "Premium noise-canceling headphones with LDAC.",
       "category": "Headphone",
       "price": 349,
@@ -292,7 +292,7 @@
     {
       "id": "23",
       "name": "AirPods Pro",
-      "img": "airpods_pro_image.jpg",
+      "img": "https://i.ibb.co/T2KGCGZ/download.jpg",
       "des": "Wireless earbuds with active noise cancellation.",
       "category": "Headphone",
       "price": 249,
@@ -305,7 +305,7 @@
     {
       "id": "24",
       "name": "Bose QuietComfort 45",
-      "img": "bose_quietcomfort_45_image.jpg",
+      "img": "https://i.ibb.co/T2KGCGZ/download.jpg",
       "des": "Comfortable over-ear headphones with ANC.",
       "category": "Headphone",
       "price": 329,
@@ -318,7 +318,7 @@
     {
       "id": "25",
       "name": "JBL Charge 5",
-      "img": "jbl_charge_5_image.jpg",
+      "img": "https://i.ibb.co/6ywfDfV/spiker.png",
       "des": "Portable Bluetooth speaker with powerful sound.",
       "category": "Spiker",
       "price": 179,
@@ -330,7 +330,7 @@
     {
       "id": "26",
       "name": "UE Boom 3",
-      "img": "ue_boom_3_image.jpg",
+      "img": "https://i.ibb.co/6ywfDfV/spiker.png",
       "des": "Durable waterproof Bluetooth speaker.",
       "category": "Spiker",
       "price": 149,
@@ -342,7 +342,7 @@
     {
       "id": "27",
       "name": "Sonos Move",
-      "img": "sonos_move_image.jpg",
+      "img": "https://i.ibb.co/6ywfDfV/spiker.png",
       "des": "Smart portable speaker with built-in Alexa.",
       "category": "Spiker",
       "price": 399,
@@ -354,7 +354,7 @@
     {
       "id": "28",
       "name": "Canon EOS R5",
-      "img": "canon_eos_r5_image.jpg",
+      "img": "https://i.ibb.co/jRbrJbj/camera.png",
       "des": "High-resolution mirrorless camera with 8K video.",
       "category": "Camera",
       "price": 3899,
@@ -367,7 +367,7 @@
     {
       "id": "29",
       "name": "Sony A7 III",
-      "img": "sony_a7_iii_image.jpg",
+      "img": "https://i.ibb.co/jRbrJbj/camera.png",
       "des": "Versatile full-frame mirrorless camera.",
       "category": "Camera",
       "price": 1999,
@@ -380,7 +380,7 @@
     {
       "id": "30",
       "name": "Nikon Z6 II",
-      "img": "nikon_z6_ii_image.jpg",
+      "img": "https://i.ibb.co/jRbrJbj/camera.png",
       "des": "Compact and powerful mirrorless camera.",
       "category": "Camera",
       "price": 1996,
@@ -393,7 +393,7 @@
     {
       "id": "31",
       "name": "DJI Air 2S",
-      "img": "dji_air_2s_image.jpg",
+      "img": "https://i.ibb.co/tQMQpDB/drone.png",
       "des": "Compact drone with powerful camera.",
       "category": "Drone",
       "price": 999,
@@ -406,7 +406,7 @@
     {
       "id": "32",
       "name": "Parrot Anafi",
-      "img": "parrot_anafi_image.jpg",
+      "img": "https://i.ibb.co/tQMQpDB/drone.png",
       "des": "Foldable 4K HDR drone for aerial photography.",
       "category": "Drone",
       "price": 699,
@@ -419,7 +419,7 @@
     {
       "id": "33",
       "name": "DJI Mini 2",
-      "img": "dji_mini_2_image.jpg",
+      "img": "https://i.ibb.co/tQMQpDB/drone.png",
       "des": "Ultralight drone for beginners with 4K camera.",
       "category": "Drone",
       "price": 449,
@@ -432,7 +432,7 @@
     {
       "id": "34",
       "name": "HP OfficeJet Pro 9015",
-      "img": "hp_officejet_pro_9015_image.jpg",
+      "img": "https://i.ibb.co/fpQf5SK/printer.png",
       "des": "All-in-one inkjet printer for home offices.",
       "category": "Printer",
       "price": 229,
@@ -444,7 +444,7 @@
     {
       "id": "35",
       "name": "Epson EcoTank ET-4760",
-      "img": "epson_ecotank_et_4760_image.jpg",
+      "img": "https://i.ibb.co/fpQf5SK/printer.pngjpg",
       "des": "Wireless supertank printer with cartridge-free printing.",
       "category": "Printer",
       "price": 499,
@@ -456,7 +456,7 @@
     {
       "id": "36",
       "name": "Canon imageCLASS MF743Cdw",
-      "img": "canon_imageclass_mf743cdw_image.jpg",
+      "img": "https://i.ibb.co/fpQf5SK/printer.png",
       "des": "Color laser all-in-one printer for small businesses.",
       "category": "Printer",
       "price": 529,

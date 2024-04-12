@@ -1,4 +1,5 @@
 import Img from "../assets/banner.png"
+import Brands from "../components/Brands";
 import Category from "../components/Category";
 import Products from "../components/Products";
 const Home = () => {
@@ -7,10 +8,11 @@ const Home = () => {
             <figure>
                 <img className="w-full" src={Img} alt="" />
             </figure>
-            <div>
+            <div >
                 <Facility />
                 <Category />
                 <Products />
+                <Brands />
             </div>
         </div>
     );
