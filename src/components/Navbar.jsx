@@ -1,7 +1,6 @@
 import {  useContext } from "react";
 import { FaShoppingCart, FaUser } from "react-icons/fa";
 import { ContextData } from "../global/ContextInfo";
-import { space } from "postcss/lib/list";
 const Navbar = () => {
     const { localStorageData} = useContext(ContextData)
 
