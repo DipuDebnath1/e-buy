@@ -9,10 +9,13 @@
         const prevData = getLocalStoreData()
         if (prevData) {
             const updateData = [...prevData, item]
-            console.log(updateData);
-            localStorage.setItem('items', JSON.stringify(updateData))
+             localStorage.setItem('items', JSON.stringify(updateData))
             return
         }
         localStorage.setItem('items', JSON.stringify([item]))
      
     }
+
+    export const updateLocalStoreData = (item) =>{
+        localStorage.setItem('items', JSON.stringify(item))
+     }

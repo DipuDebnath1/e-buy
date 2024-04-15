@@ -11,7 +11,7 @@ const ContextInfo = ({children}) => {
     useEffect(()=>{
         const items =  localStorage.getItem('items')
         if (items ) {
-            setLocalStorageData(JSON.parse(items).length)
+            setLocalStorageData(JSON.parse(items))
         }
     },[count])
 

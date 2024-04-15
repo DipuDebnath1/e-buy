@@ -30,7 +30,8 @@ const Products = () => {
 
 
     const handleAddToCart = (item) =>{
-        setLocalStoreData(item)
+        const product = {...item,quantity:1}
+        setLocalStoreData(product)
         setCount(count+1)
     }
 
